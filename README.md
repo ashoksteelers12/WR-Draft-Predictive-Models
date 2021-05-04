@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/DK_Metcalf"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DK_Metcalf_%2850744645202%29.jpg/330px-DK_Metcalf_%2850744645202%29.jpg" alt="PHP Logo" height="200" width="300"></a>
+  <a href="https://en.wikipedia.org/wiki/DK_Metcalf"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DK_Metcalf_%2850744645202%29.jpg/330px-DK_Metcalf_%2850744645202%29.jpg" alt="PHP Logo" height="300" width="300"></a>
 </p>
 
 # Predictive Models For WRs In The NFL Draft
