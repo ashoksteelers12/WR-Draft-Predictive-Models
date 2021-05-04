@@ -6,7 +6,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
-A set of predictive models to help determine accurate ways for predicting the selected round for WRs in the NFL Draft by utilizing a combination of TDA and ML techniques, such as k-means clustering, persistent homology, and random forest classifier. The project additionally analyses previous drafts with a focus on WRs from Power Five conferences in the 2018, 2019, and 2020 NFL Drafts, who were also invited to the NFL Combine. 
+A set of predictive models to help determine accurate ways for predicting the selected round for WRs in the NFL Draft by utilizing a combination of TDA and ML techniques, such as k-means clustering, persistent homology, and random forest classifier. The project additionally analyses previous drafts with a focus on WRs from Power Five conferences in the 2018, 2019, and 2020 NFL Drafts, who were also invited to the NFL Combine. The project was completed for MATH 478 in Spring 2021.
 
 ## Table of Contents
 
